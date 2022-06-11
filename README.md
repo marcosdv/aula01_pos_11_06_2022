@@ -1,16 +1,23 @@
-# aula01_pos_11_06_2022
+# WebDev UniAlfa - Pós-Graduação em Desenvolvimento de Aplicações para Internet e Dispositivos Móveis
+## Aula 01 - 11-06-2022 - Conceitos Iniciais
 
-Aula 01 - pos  11_06_2022
+![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-Flutter-blue)
 
-## Getting Started
+### Aula 01 ministrada no dia 11/06/2022 para a turma da WebDev UniAlfa - Pós-Graduação em Desenvolvimento de Aplicações para Internet e Dispositivos Móveis.
 
-This project is a starting point for a Flutter application.
+### Conteúdo
 
-A few resources to get you started if this is your first Flutter project:
+- [x] Criando métodos para criar Widgets
+- [x] Controllers para Widgets
+- [x] AlertDialog para mensagens
+- [x] Criando componentes Widgets Stateless
+- [x] Utilizando os novos componentes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+- [Android Studio](https://developer.android.com/studio)
+- [Dart Packages](https://pub.dev/)
